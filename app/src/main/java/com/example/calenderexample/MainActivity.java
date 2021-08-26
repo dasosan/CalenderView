@@ -30,8 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         materialCalendarView.addDecorators(
                 new SundayDecorator(),
-                new SaturdayDecorator(),
-                new OneDayDecorator());
+                new SaturdayDecorator());
 
 
 
